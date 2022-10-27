@@ -7,7 +7,7 @@ on:
       - main
 jobs:
   # To build the project
-  staging-futurematerials:
+  staging-camsol-v2:
     runs-on: ubuntu-latest
     steps:
       - name: Checking out code
